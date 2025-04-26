@@ -18,8 +18,8 @@ A real-time chat application built with the **MERN Stack** (MongoDB, Express, Re
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Yatul-Jaat/chat-application.git
+cd chat-application
 ```
 
 ### 2. Install Backend Dependencies
@@ -49,7 +49,7 @@ npm run server
 npm run dev
 ```
 
-The backend server will start on `http://localhost:5000` and the frontend will run on `http://localhost:3000` (or whichever port is set).
+The backend server will start on `http://localhost:3000` and the frontend will run on `http://localhost:5000` (or whichever port is set).
 
 ## Technologies Used
 
