@@ -11,7 +11,7 @@ A real-time chat application built with the **MERN Stack** (MongoDB, Express, Re
 - Real-time messaging
 - User authentication
 - Responsive UI
-- Socket.IO integration (if you used it)
+- Socket.IO integration
 
 ## Installation
 
@@ -82,6 +82,3 @@ root
 
 
 ---
-
-Would you also like me to make a slightly cooler version with badges and screenshots sections? 🚀  
-It can make it even more attractive on GitHub! 🎨✨
